@@ -1,6 +1,6 @@
 # ethernaut
 
-My update to the [cmichel](cmichel.io) solutions to [Ethernaut CTF](https://ethernaut.openzeppelin.com/) after deprecation of Rinkeby.
+My update to the [cmichel](https://cmichel.io) solutions to [Ethernaut CTF](https://ethernaut.openzeppelin.com/) after deprecation of Rinkeby.
 In-depth explanations for each level [can be read on my blog](https://cmichel.io/ethernaut-solutions/).
 
 ## Development
